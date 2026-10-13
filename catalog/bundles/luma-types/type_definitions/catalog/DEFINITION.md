@@ -25,7 +25,7 @@ the two fields above.
 ## `default_namespace`
 
 **Every Bundle is addressed `<namespace>/<name>`, and the namespace belongs to
-the catalog rather than to the Bundle.** `lumastack/luma-catalog/decision-records`
+the catalog rather than to the Bundle.** `lumastack/luma-catalog-prototype/decision-records`
 is *the `decision-records` published by the `lumastack/luma-catalog` catalog*;
 the same Bundle promoted into another organization's catalog is that
 organization's to name.

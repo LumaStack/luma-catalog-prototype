@@ -210,7 +210,7 @@ say exactly how to cache it**, in the policy that points.
 ```
 
 ```
-~/.cache/luma/luma-foreman/bundles/lumastack/luma-catalog/command-line-interface/clig.dev.md
+~/.cache/luma/luma-foreman/bundles/lumastack/luma-catalog-prototype/command-line-interface/clig.dev.md
 ```
 
 **The full ID, because a bare name is not unique.** Bundle names are unique

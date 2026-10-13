@@ -432,7 +432,7 @@ local
 
   ◐ 1 not as recorded          luma-foreman inspect --rule adoption
   ⊘ 1 turned off               luma-foreman bundle set command-line-interface register
-  ○ 1 recorded, not on disk    luma-foreman get lumastack/luma-catalog/decision-records
+  ○ 1 recorded, not on disk    luma-foreman get lumastack/luma-catalog-prototype/decision-records
 ```
 
 What to copy from it:
@@ -461,13 +461,13 @@ The inverse of `list`: one subject, so there is room to explain rather than
 tag.
 
 ```
-lumastack/luma-catalog/git-workflow  0.8.1
+lumastack/luma-catalog-prototype/git-workflow  0.8.1
   How changes get integrated — merge commits rather than squash or rebase, the
   repository settings that make it true, and how to prove a change landed.
 
   source     https://github.com/LumaStack/luma-catalog
   commit     ce13c21e65900542c1570a6afdf903d8ac4fbf73
-  at         .luma/bundles/lumastack/luma-catalog/git-workflow
+  at         .luma/bundles/lumastack/luma-catalog-prototype/git-workflow
   copy       ok
 
   documents  4

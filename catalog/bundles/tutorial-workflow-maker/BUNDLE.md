@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/tutorial-workflow-maker
+title: lumastack/luma-catalog-prototype/tutorial-workflow-maker
 version: 0.13.0
 published: 2026-09-19
 stage: draft
@@ -36,7 +36,7 @@ one, and the parts that should not be rewritten each time.
 [the driving procedure](templates/driving-procedure.md)
 
 **Types** — [[tutorial_step]] · [[tutorial_quiz]], vendored from
-`lumastack/luma-catalog/luma-types`. Copy them into whatever bundle you are building a tutorial
+`lumastack/luma-catalog-prototype/luma-types`. Copy them into whatever bundle you are building a tutorial
 in; the contract has to travel with the documents.
 
 **Concept**

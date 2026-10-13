@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/git-secrets
+title: lumastack/luma-catalog-prototype/git-secrets
 version: 0.8.0
 published: 2026-09-19
 stage: draft

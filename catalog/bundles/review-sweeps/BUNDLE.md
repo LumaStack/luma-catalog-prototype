@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/review-sweeps
+title: lumastack/luma-catalog-prototype/review-sweeps
 version: 0.33.0
 published: 2026-09-20
 stage: draft

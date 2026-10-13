@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/backlog
+title: lumastack/luma-catalog-prototype/backlog
 version: 0.49.1
 stage: draft
 consumers: [project]
@@ -9,7 +9,7 @@ description: The record types a luma-backlog corpus conforms to, and the procedu
 published: 2026-09-24
 ---
 
-# lumastack/luma-catalog/backlog
+# lumastack/luma-catalog-prototype/backlog
 
 **What an agent needs in order to work a backlog well.** The types a corpus
 conforms to, and one procedure per thing somebody does to it — capture, refine,

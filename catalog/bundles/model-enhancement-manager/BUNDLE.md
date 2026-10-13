@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/model-enhancement-manager
+title: lumastack/luma-catalog-prototype/model-enhancement-manager
 version: 0.4.0
 published: 2026-09-19
 stage: draft

@@ -53,7 +53,7 @@ Commit `.luma/` in full; it is never ignored.
 ## 5. Adopt
 
 ```bash
-luma-foreman get lumastack/luma-catalog/<bundle>
+luma-foreman get lumastack/luma-catalog-prototype/<bundle>
 luma-foreman apply
 ```
 

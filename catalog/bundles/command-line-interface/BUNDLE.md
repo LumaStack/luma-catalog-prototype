@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/command-line-interface
+title: lumastack/luma-catalog-prototype/command-line-interface
 version: 0.6.0
 stage: draft
 consumers: [project, organization]
@@ -9,7 +9,7 @@ description: How this project designs its command line — the guidelines it fol
 published: 2026-09-23
 ---
 
-# lumastack/luma-catalog/command-line-interface
+# lumastack/luma-catalog-prototype/command-line-interface
 
 **Adopting this bundle is the declaration.** It says that this project
 designs anything a user types or reads back against

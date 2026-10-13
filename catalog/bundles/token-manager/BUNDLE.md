@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/token-manager
+title: lumastack/luma-catalog-prototype/token-manager
 version: 0.13.0
 published: 2026-09-19
 stage: draft
@@ -31,7 +31,7 @@ available to them.
   Changes nothing.
 
 **Types** — [[tutorial_step]] · [[tutorial_quiz]], both vendored from
-`lumastack/luma-catalog/luma-types` rather than invented here. They describe any paced walkthrough,
+`lumastack/luma-catalog-prototype/luma-types` rather than invented here. They describe any paced walkthrough,
 not this one, and the next tutorial takes the same copies.
 
 The tutorial carries its steps beside it as documents of those types, read one

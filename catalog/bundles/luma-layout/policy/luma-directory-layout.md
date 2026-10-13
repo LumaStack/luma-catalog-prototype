@@ -15,7 +15,7 @@ matches: eager
   bundles/            what is in force — adopted, or written here
     MANIFEST.md       what this project carries, and proof of what arrived
     INDEX.md          generated map, one entry per bundle — regenerate, never edit
-    lumastack/luma-catalog/git-secrets/
+    lumastack/luma-catalog-prototype/git-secrets/
     local/my-bundle/  written here, not yet published
   config/
     luma-foreman.toml how a tool behaves here — one file per tool, named for it
@@ -187,7 +187,7 @@ The namespace tells them apart, and it is more reliable than a directory would
 be:
 
 ```
-.luma/bundles/lumastack/luma-catalog/git-secrets/   adopted — never edit it
+.luma/bundles/lumastack/luma-catalog-prototype/git-secrets/   adopted — never edit it
 .luma/bundles/local/deploy/                         ours — not yet published
 ```
 
@@ -207,7 +207,7 @@ to be different, that is a different bundle in your own namespace.
 ## `MANIFEST.md` is written by commands, never by hand
 
 ```markdown
-- `lumastack/luma-catalog/git-secrets` 0.7.0
+- `lumastack/luma-catalog-prototype/git-secrets` 0.7.0
   - source: https://github.com/LumaStack/luma-catalog
   - commit: abc1234
   - sha256: 9f2c…

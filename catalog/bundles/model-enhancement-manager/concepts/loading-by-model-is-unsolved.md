@@ -40,7 +40,7 @@ the bundle should carry the config rather than reimplement the selection.
 
 **Adding `model` to the trigger vocabulary.** This has to come first: nothing
 else can be built on a condition that cannot be written down. It is a change to
-a type more than one tool reads, so `lumastack/luma-catalog/luma-types` and
+a type more than one tool reads, so `lumastack/luma-catalog-prototype/luma-types` and
 `change-a-shared-type` govern it, and it is not a local decision.
 
 ## What it costs to leave open

@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/model-opus-5-enhancements
+title: lumastack/luma-catalog-prototype/model-opus-5-enhancements
 version: 0.4.0
 published: 2026-09-19
 stage: draft
@@ -18,7 +18,7 @@ particular gets wrong, and what to do instead.
 **Everything here is observed.** Each policy came from a session where the
 behaviour cost somebody time, and the policy names the case. A way a model
 *could* go wrong does not belong here — see
-`lumastack/luma-catalog/model-enhancement-manager` for the bar and how to add
+`lumastack/luma-catalog-prototype/model-enhancement-manager` for the bar and how to add
 one.
 
 ## What is here
@@ -46,7 +46,7 @@ mandatory rather than optional. Existence is cheap and content is expensive.
 **A guardrail cannot be topic-matched.** One delivered after the mistake is a
 description of the mistake, so the condition is the model and nothing narrower —
 which is why the missing vocabulary matters rather than being tidied around.
-`lumastack/luma-catalog/model-enhancement-manager` carries the problem and what
+`lumastack/luma-catalog-prototype/model-enhancement-manager` carries the problem and what
 closing it would take.
 
 **Ceiling: 1,300 words**, measured with `wc -w catalog/bundles/model-opus-5-enhancements/policy/*.md`.

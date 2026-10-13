@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/go-guidelines
+title: lumastack/luma-catalog-prototype/go-guidelines
 version: 0.2.0
 stage: draft
 survival: probationary
@@ -10,7 +10,7 @@ description: The Go guidelines this project writes against, which one wins when 
 published: 2026-09-19
 ---
 
-# lumastack/luma-catalog/go-guidelines
+# lumastack/luma-catalog-prototype/go-guidelines
 
 **Adopting this bundle is the declaration.** It says that this project writes
 Go against the four published guidelines named below, in the order given, and

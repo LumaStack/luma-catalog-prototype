@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/luma-tools
+title: lumastack/luma-catalog-prototype/luma-tools
 version: 0.13.0
 published: 2026-09-19
 stage: draft
@@ -16,7 +16,7 @@ about consuming: installing an engine, adopting bundles into a repository, and
 making an agent aware of what was adopted.
 
 **It carries no knowledge about building the tools.** That is
-`lumastack/luma-catalog/luma-maintainers`, and the two are additive rather than alternatives — a
+`lumastack/luma-catalog-prototype/luma-maintainers`, and the two are additive rather than alternatives — a
 repository that builds a tool adopts both, everywhere else adopts only this.
 
 ## What is here

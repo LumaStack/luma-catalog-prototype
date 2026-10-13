@@ -66,9 +66,9 @@ jobs:
       - name: Clone the tools at their pinned commits
         run: |
           set -eu
-          git clone -q https://github.com/LumaStack/luma-catalog-curator.git "$RUNNER_TEMP/curator"
+          git clone -q https://github.com/LumaStack/luma-catalog-curator-prototype.git "$RUNNER_TEMP/curator"
           git -C "$RUNNER_TEMP/curator" checkout -q "$CURATOR_SHA"
-          git clone -q https://github.com/LumaStack/luma-foreman.git "$RUNNER_TEMP/foreman"
+          git clone -q https://github.com/LumaStack/luma-foreman-prototype.git "$RUNNER_TEMP/foreman"
           git -C "$RUNNER_TEMP/foreman" checkout -q "$FOREMAN_SHA"
 
       # Contradictions no individual project could ever detect: a bundle both

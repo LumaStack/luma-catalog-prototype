@@ -7,13 +7,13 @@ description: Universal bundles — the starting set any organization can adopt.
 # The universal catalog
 
 Bundles useful to an organization with no connection to Luma. What each field
-means and how it resolves is in [`bundles/luma-types/type_definitions/catalog/DEFINITION.md`](bundles/luma-types/type_definitions/catalog/DEFINITION.md) — the one canonical copy, published in the `lumastack/luma-catalog/luma-types` bundle rather than duplicated beside this file.
+means and how it resolves is in [`bundles/luma-types/type_definitions/catalog/DEFINITION.md`](bundles/luma-types/type_definitions/catalog/DEFINITION.md) — the one canonical copy, published in the `lumastack/luma-catalog-prototype/luma-types` bundle rather than duplicated beside this file.
 
 No `upstream`: this is the root of the chain.
 
 **No `namespace`, deliberately.** It derives from where this catalog lives:
 `github.com/LumaStack/luma-catalog` gives `lumastack/luma-catalog`, so a bundle
-here is `lumastack/luma-catalog/decision-records`.
+here is `lumastack/luma-catalog-prototype/decision-records`.
 
 Declaring one is allowed and wins wherever it appears. Do not, unless you need
 a name your address cannot give you. A declaration is a line a fork inherits by

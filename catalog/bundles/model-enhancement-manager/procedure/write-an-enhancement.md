@@ -168,7 +168,7 @@ once, by a person, while writing.
 
 ## 6. Land it, and say what came out
 
-Version per `lumastack/luma-catalog/versioning`: a new policy is a minor bump, a
+Version per `lumastack/luma-catalog-prototype/versioning`: a new policy is a minor bump, a
 reworded one is a patch, and **removing one is a minor bump too** — an adopter
 loses a rule they may have been relying on.
 

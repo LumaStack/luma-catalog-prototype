@@ -33,7 +33,7 @@ of guardrails for behaviours this model does not exhibit — which cost the same
 as real ones and are never triggered, so nothing reveals them as wrong.
 
 Scaffold with the `create-bundle` procedure in
-`lumastack/luma-catalog/bundle-manager`, then declare the word ceiling in
+`lumastack/luma-catalog-prototype/bundle-manager`, then declare the word ceiling in
 `BUNDLE.md` before the first policy goes in.
 
 **Write the entrypoint first, from [the entrypoint

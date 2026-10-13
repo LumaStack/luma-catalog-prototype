@@ -33,9 +33,9 @@ cat .luma/bundles/adopted.toml
 
 **The adopted bundles are the routing table.** Each one already declares where
 its own kind of knowledge lives, so the project answering *what did you adopt?*
-has answered *where do decisions go?* at the same time. `lumastack/luma-catalog/decision-records`
-adopted means decisions have a home and a shape; `lumastack/luma-catalog/backlog-ideas` means
-ideas do, and it carries the procedure for filing one; `lumastack/luma-catalog/audit-records`
+has answered *where do decisions go?* at the same time. `lumastack/luma-catalog-prototype/decision-records`
+adopted means decisions have a home and a shape; `lumastack/luma-catalog-prototype/backlog-ideas` means
+ideas do, and it carries the procedure for filing one; `lumastack/luma-catalog-prototype/audit-records`
 means findings do.
 
 **Named, not linked into.** This bundle points at others for depth and never

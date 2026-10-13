@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/versioning
+title: lumastack/luma-catalog-prototype/versioning
 version: 0.9.0
 published: 2026-09-23
 stage: draft

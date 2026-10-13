@@ -1,7 +1,7 @@
 ---
 type: bundle
 type_version: "0.0.1"
-title: lumastack/luma-catalog/luma-maintainers
+title: lumastack/luma-catalog-prototype/luma-maintainers
 version: 0.16.0
 published: 2026-09-23
 stage: draft
@@ -20,7 +20,7 @@ noise in a project that merely uses the tools — foreman's release process is n
 information an Acme developer needs, and a bundle that ships it to them has
 mistaken *important to us* for *useful to them*.
 
-## It is additive to `lumastack/luma-catalog/luma-tools`, never a replacement
+## It is additive to `lumastack/luma-catalog-prototype/luma-tools`, never a replacement
 
 **A maintainer is also a consumer**, and that is the reason these are two
 bundles rather than two modes. Building foreman does not exempt you from using

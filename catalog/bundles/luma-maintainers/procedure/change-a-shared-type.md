@@ -2,7 +2,7 @@
 type: procedure
 type_version: "0.0.1"
 title: Change a type more than one tool depends on
-description: Alter a shared type without making every tool upgrade at once. Use before touching anything in lumastack/luma-catalog/luma-types, or any type a second consumer already reads.
+description: Alter a shared type without making every tool upgrade at once. Use before touching anything in lumastack/luma-catalog-prototype/luma-types, or any type a second consumer already reads.
 ---
 
 # Change a type more than one tool depends on
@@ -20,7 +20,7 @@ it. Ship it, bump the type's minor, done.
 The minor of `0.0.1` is `0.1.0`, and leaving `0.0.x` claims the shape has
 settled — a decision for whoever controls the type, never one inferred from
 having changed it. Bump the patch instead and record which tier you declined.
-The rule is in the `lumastack/luma-catalog/versioning` bundle, under
+The rule is in the `lumastack/luma-catalog-prototype/versioning` bundle, under
 `policy/semantic-versioning`.
 
 **Removing a field, renaming one, or changing what one means is breaking.** So
