@@ -6,4 +6,4 @@ Every container has an index. This is the project's: one entry per bundle, what 
 
 ## Offered — open a bundle's index when its line matches the work
 
-- `lumastack/luma-catalog/backlog` 0.49.0 — The record types a luma-backlog corpus conforms to, and the procedures for the things somebody does to a backlog — what an agent needs in order to work one well.
+- `lumastack/luma-catalog-prototype/backlog` 0.49.1 — The record types a luma-backlog corpus conforms to, and the procedures for the things somebody does to a backlog — what an agent needs in order to work one well.

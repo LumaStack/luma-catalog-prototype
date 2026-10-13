@@ -5,7 +5,7 @@
 
 # Bundles
 
-- `lumastack/luma-catalog/backlog` 0.49.0
-  - catalog: lumastack/luma-catalog
-  - commit: a5a9e3a35c91ca8c57879974b6e0a55407d917a1
-  - sha256: b36067d9e842d46412c47c5f473b5fbea72a392a5fdb3c3aa786e12bdbed77f3
+- `lumastack/luma-catalog-prototype/backlog` 0.49.1
+  - catalog: lumastack/luma-catalog-prototype
+  - commit: 60c5ad37cb6b07d7d537c50fcda4ceaa1e4046ea
+  - sha256: 7c3f62c755e6d87850747fff7cba13faef279915c673fbc4d091d89d403c8ff0

@@ -6,25 +6,25 @@
 # writes here.
 
 [[rule]]
-bundle = "lumastack/luma-catalog/backlog"
+bundle = "lumastack/luma-catalog-prototype/backlog"
 document = "policy/adopting-a-rule-the-corpus-does-not-meet"
 title = "Adopting a rule the corpus does not meet"
-path = ".luma/bundles/lumastack/luma-catalog/backlog/policy/adopting-a-rule-the-corpus-does-not-meet.md"
+path = ".luma/bundles/lumastack/luma-catalog-prototype/backlog/policy/adopting-a-rule-the-corpus-does-not-meet.md"
 on_violation = "allow"
 matches = ["topic:adopting a rule, tightening a policy, or changing what a record must contain"]
 
 [[rule]]
-bundle = "lumastack/luma-catalog/backlog"
+bundle = "lumastack/luma-catalog-prototype/backlog"
 document = "policy/showing-records"
 title = "Showing records"
-path = ".luma/bundles/lumastack/luma-catalog/backlog/policy/showing-records.md"
+path = ".luma/bundles/lumastack/luma-catalog-prototype/backlog/policy/showing-records.md"
 on_violation = "allow"
 matches = ["eager"]
 
 [[rule]]
-bundle = "lumastack/luma-catalog/backlog"
+bundle = "lumastack/luma-catalog-prototype/backlog"
 document = "policy/when-a-work-item-splits"
 title = "When a work item splits"
-path = ".luma/bundles/lumastack/luma-catalog/backlog/policy/when-a-work-item-splits.md"
+path = ".luma/bundles/lumastack/luma-catalog-prototype/backlog/policy/when-a-work-item-splits.md"
 on_violation = "allow"
 matches = ["eager"]

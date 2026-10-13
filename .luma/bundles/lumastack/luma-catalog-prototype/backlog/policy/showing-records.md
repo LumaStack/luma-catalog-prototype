@@ -41,7 +41,7 @@ to come from yet: an outcome is `unverified` or `passing` with nothing between,
 and ADR-0007's verdicts are unbuilt. Absence is `○`, not `✘` — nobody having
 looked is not a bad result, it is no result.
 
-> This mirrors `lumastack/luma-catalog/command-line-interface`
+> This mirrors `lumastack/luma-catalog-prototype/command-line-interface`
 > `policy/ascii-styleguide`, which is the source. **Replace this section with a
 > pointer once that bundle is adopted at 0.3.0 or later**; the vendored copy
 > here is 0.1.0 and does not carry it.
